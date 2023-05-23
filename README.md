@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=150&section=header&text=Chaeeun%20Github!&fontSize=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=150&section=header&text=Chaeeun's%20Github!&fontSize=50" width="100%">
   
   <div>
     <p>안녕하세요✨! 웹 프론트엔드 & 앱 개발자를 희망하는 정채은입니다!<br>
