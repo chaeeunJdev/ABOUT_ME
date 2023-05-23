@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
 
 ### Web
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-React.js-FFFFFF?style=flat&logo=React&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=Bootstrap&logoColor=#05054B"/> <img src="https://img.shields.io/badge/-React.js-FFFFFF?style=flat&logo=React&logoColor=#61DAFB"/> <img src="https://img.shields.io/badge/-MUI-FFFFFF?style=flat&logo=MUI&logoColor=#757575"/> 
 
 ### Android
 <img src="https://img.shields.io/badge/-kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
