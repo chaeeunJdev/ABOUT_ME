@@ -7,7 +7,7 @@
     웹 개발자에 대해 주로 공부했지만 앱에 대한 프로젝트를 해본 뒤 흥미가 생겨 앱 공부도 진행중입니다.<br>
     항상 새로운 기술에 도전하는 개발자가 되겠습니다!</p>
   </div>
-  ✉Email : jce0497@gmail.comv<br>
+  ✉Email : jce0497@gmail.com<br>
   <br>
   
 ## 🛠 SKILLS & Collaboration Tools
