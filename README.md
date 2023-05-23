@@ -22,8 +22,7 @@
 <img src="https://img.shields.io/badge/-Django-7F52FF?style=flat&logo=kotlin&logoColor=#092E20"/> <br>
   
 ### Tools
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/> 
-
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=#F24E1E"/> <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=Visual Studio Code&logoColor=#007ACC"/> 
   <br>
   <br>
 
