@@ -33,9 +33,4 @@
 ### 💻Most Used Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeeunJdev&layout=compact&theme=tokyonight)
   
-### 🥇Github stats
-![chaeeunJdev's github stats](https://github-readme-stats.vercel.app/api?username=chaeeunJdev&show_icons=true&theme=tokyonight) 
- 
-
-  
 
