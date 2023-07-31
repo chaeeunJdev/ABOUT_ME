@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=150&section=header&text=Chaeeun's%20Github!&fontSize=50" width="100%">
   
   <div>
-    <p>안녕하세요✨! 앱 및 웹 프론트엔드 개발자를 희망하는 정채은입니다!<br>
+    <p>안녕하세요✨! 풀스택 개발자를 희망하는 정채은입니다!<br>
     웹 개발자에 대해 주로 공부했지만 앱에 대한 프로젝트를 해본 뒤 흥미가 생겨 앱 공부도 진행중입니다.<br>
     항상 새로운 기술에 도전하는 개발자가 되겠습니다!</p>
   </div>
